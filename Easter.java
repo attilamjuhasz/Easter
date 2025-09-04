@@ -8,7 +8,7 @@ public class Easter {
         int a = y % 19;
         System.out.println("a = " + a);
         int b = y / 100;
-        System.out.println("b= " + b);
+        System.out.println("b = " + b);
         int c = y % 100;
         System.out.println("c = " + c);
         int d = b / 4;
