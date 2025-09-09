@@ -33,5 +33,6 @@ public class Easter {
         System.out.println("n = " + n);
         int p = ( h + r - 7 * m + 114) % 31;
         System.out.println("p = " + p);
+        System.out.println("Easter will be on " + n + "/" + (p+1) + " in " + y);
     }
 }
